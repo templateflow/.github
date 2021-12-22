@@ -1,5 +1,7 @@
 ## *TemplateFlow*: FAIR-sharing of multi-scale, multi-species brain models
 
+[![RRID:SCR_021876](https://img.shields.io/badge/RRID-SCR__021876-blue)](https://scicrunch.org/resources/Any/record/nlx_144509-1/SCR_021876/resolver?q=templateflow&l=templateflow)
+
 Please visit www.templateflow.org for a more comprehensive description of this project. News and some discussions take place at [the Nipy discourse platform](https://nipy.discourse.group/c/nipreps/9).
 
 ### About
