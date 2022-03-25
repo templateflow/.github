@@ -22,3 +22,5 @@ This work is steered and maintained by the [NiPreps Community](https://www.nipre
 The development of this framework is supported the NIMH (RF1MH121867, RAP, OE).
 
 Thanks to the [DataLad](https://datalad.org) developers, as we rely on their wonderful tool for the management of the *TemplateFlow Archive*.
+
+Registered with: [<img src="https://www.re3data.org/bundles/kitlibraryre3dataapp/img/re3datalogo_black.png" width="80px" />](https://doi.org/10.17616/R31NJN0T) - [OpenDOAR:10204].
