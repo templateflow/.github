@@ -11,12 +11,16 @@ The choice of such references —i.e., *templates*— and atlases is one relevan
 The framework combines an open database with software for access, management, and vetting, allowing scientists to distribute their resources under FAIR —findable, accessible, interoperable, reusable— principles.
 *TemplateFlow* supports a multifaceted insight into brains across species and enables multiverse analyses testing whether results generalize across standard references, scales, and in the long term, species, thereby contributing to increasing the reliability of neuroimaging results.
 
+![TF flowchart](https://www.templateflow.org/assets/templateflow_fig-birdsview.png "TemplateFlow flowchart")
+
 ### Vision
 The rationale behind *TemplateFlow* and how we envision it as a fundamental instrument for neuroimaging studies is presented in our preprint:
 
 > Ciric, R., Thompson, W.H., Lorenz, R. et al. TemplateFlow: FAIR-sharing of multi-scale, multi-species brain models. *Nat Methods* **19**, 1568–1571 (2022). doi:[10.1038/s41592-022-01681-2](https://doi.org/10.1038/s41592-022-01681-2)
 
 An extended version of this paper is found in our [pre-print](https://doi.org/10.1101/2021.02.10.430678).
+
+![TF templates](https://www.templateflow.org/assets/templateflow_fig-templates.png "templates")
 
 ### Acknowledgments
 
