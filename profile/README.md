@@ -29,4 +29,6 @@ The development of this framework is supported the NIMH (RF1MH121867, RAP, OE).
 
 Thanks to the [DataLad](https://datalad.org) developers, as we rely on their excellent tool for managing the *TemplateFlow Archive*.
 
-Registered with: [<img src="https://www.re3data.org/bundles/kitlibraryre3dataapp/img/re3datalogo_black.png" width="80px" />](https://doi.org/10.17616/R31NJN0T) - [OpenDOAR:10204].
+<object type="image/svg+xml" data="https://www.re3data.org/badges/s/dark/100013645.svg">
+<img alt="OpenDOAR:10204" src="https://www.re3data.org/badges/s/dark/100013645.png" style="max-width:100%" />
+</object>
